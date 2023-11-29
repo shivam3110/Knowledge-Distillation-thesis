@@ -1,1 +1,0 @@
-# Automatic-vehlice-damage-detection
