@@ -66,7 +66,14 @@ requirement.txt
 
 ### Contributing
 
+Feel free to contribute by opening [issues](https://github.com/shivam3110/kd_thesis/issues), providing feedback, or submitting [pull requests](https://github.com/shivam3110/kd_thesis/pulls).
+
 ### License
 
+This project is licensed under the [MIT License](https://opensource.org/licenses/MIT) - see the [LICENSE.md](https://github.com/shivam3110/kd_thesis/blob/main/LICENSE.md) file for details.
+
 ### Acknowledgments
+
+Express gratitude and acknowledge any contributions, tools, or libraries used in the project.
+
 
