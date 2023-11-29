@@ -54,4 +54,4 @@ git clone https://github.com/shivam3110/kd_thesis.git
 cd kd_thesis
 
 # Install dependencies
-# Using file requirement.txt
+requirement.txt
