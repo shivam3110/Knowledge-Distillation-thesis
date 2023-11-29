@@ -31,18 +31,19 @@ Imbalanced datasets pose a significant challenge in machine learning, particular
 
 ### Goals:
 1. Can Knowledge Distillation(teacher-student model) address the problem of class imbalance for Image Classification?
-2. How does the selection of teacher and student models affect the performance based on the number of model-parameters?
+2. How does the selection of teacher and student models affect the performance based on the number of model parameters?
 
 
 
 
-## Getting Started
+%## Getting Started
 
-Explain how to get a copy of the project up and running on a local machine.
+%Explain how to get a copy of the project up and running on a local machine.
 
-### Prerequisites
+%### Prerequisites
 
-List any software, libraries, or dependencies that users need to have installed before they can run your project.
+%Python 
+%List any software, libraries, or dependencies that users need to have installed before they can run your project.
 
 ### Installation
 
