@@ -36,16 +36,6 @@ Imbalanced datasets pose a significant challenge in machine learning, particular
 
 
 
-
-%## Getting Started
-
-%Explain how to get a copy of the project up and running on a local machine.
-
-%### Prerequisites
-
-%Python 
-%List any software, libraries, or dependencies that users need to have installed before they can run your project.
-
 ### Installation
 
 Provide step-by-step instructions on how to install and set up the project.
