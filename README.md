@@ -1,4 +1,3 @@
-
 # Knowledge Distillation Thesis for solving the class imbalanced problem in Image classification
 
 This repository contains code and resources related to my knowledge distillation for class-imbalanced datasets. The project focuses on knowledge distillation techniques applied to Medical image classification.
