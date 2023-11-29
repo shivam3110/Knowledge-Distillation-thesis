@@ -3,7 +3,8 @@
 This repository contains code and resources related to my knowledge distillation for class-imbalanced datasets. The project focuses on knowledge distillation techniques applied to Medical image classification.
 
 
-Dataset: **Brain Tumor Segmentation(BraTS2020)**  https://www.kaggle.com/datasets/awsaf49/brats2020-training-data?resource=download
+Dataset: **Brain Tumor Segmentation(BraTS2020)**  
+          https://www.kaggle.com/datasets/awsaf49/brats2020-training-data?resource=download
 
 ## Table of Contents
 
