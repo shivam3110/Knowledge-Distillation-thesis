@@ -55,7 +55,7 @@ cd kd_thesis
 
 # Install dependencies
 requirement.txt
-
+```
 
 ### Results
 %![alt text](http://url/to/img.png)
