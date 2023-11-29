@@ -1,5 +1,8 @@
 # Knowledge Distillation(teacher-student model) for solving the class imbalanced problem in Image classification
 
+
+![Screenshot 2023-11-29 231934](https://github.com/shivam3110/kd_thesis/assets/56818878/78cbb0de-b97c-47c2-ba31-72b989ef8a38)
+
 This repository is dedicated to the implementation of Knowledge Distillation (KD) techniques, specifically utilizing the teacher-student model, to address class imbalance challenges in image classification. The primary focus is on applying these methodologies to medical image classification, with an emphasis on the Brain Tumor Segmentation dataset (BraTS2020)
 
 
