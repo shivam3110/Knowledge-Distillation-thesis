@@ -65,7 +65,7 @@ requirement.txt
 1. KFOLD baseline performance(F1 score)
 ![image](https://github.com/shivam3110/kd_thesis/assets/56818878/a3962cb9-f830-4fcb-9f7b-30895a24f157)
 2. KFOLD knowledge distillation performance(F1 score)
-   ![image](https://github.com/shivam3110/kd_thesis/assets/56818878/c19924fc-3a11-443a-95df-8e939aa4092e)
+![image](https://github.com/shivam3110/kd_thesis/assets/56818878/c19924fc-3a11-443a-95df-8e939aa4092e)
 
 
    
