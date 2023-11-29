@@ -55,3 +55,16 @@ cd kd_thesis
 
 # Install dependencies
 requirement.txt
+
+
+### Results
+%![alt text](http://url/to/img.png)
+![image](https://github.com/shivam3110/kd_thesis/assets/56818878/3474363d-b5e1-4e0d-ae2b-65c2aa909bd7)
+
+
+### Contributing
+
+### License
+
+### Acknowledgments
+
